@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: blueviolet;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.amus7{
+    background-image: url(background.jpg);
+    background-size: cover;
+
+}
+.sport-type img{
+    width: 300px;
+    height: 200px;
+    transition: 1s;
+}
+.sport-type{
+    width: 100%;
+    text-align: center;
+
+}
+.Solik{
+    padding-top: 10px;
+    
+}
+.sport-type a{
+    text-decoration: none;
+}
+.sport-type img:hover{
+    transform: scale(1.2);
+}
+
+    
+
+
